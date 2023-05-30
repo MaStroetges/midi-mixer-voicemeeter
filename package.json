@@ -34,14 +34,14 @@
   },
   "dependencies": {
     "midi-mixer-plugin": "^1.0.2",
-    "ts-easy-voicemeeter-remote": "^2.0.1"
+    "ts-easy-voicemeeter-remote": "https://github.com/MaStroetges/ts-easy-voicemeeter-remote.git"
   },
   "bundledDependencies": [
     "midi-mixer-plugin",
-    "ts-easy-voicemeeter-remote"
+    "https://github.com/MaStroetges/ts-easy-voicemeeter-remote.git"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jaggernaut555/midi-mixer-voicemeeter.git"
+    "url": "https://github.com/MaStroetges/midi-mixer-voicemeeter.git"
   }
 }
