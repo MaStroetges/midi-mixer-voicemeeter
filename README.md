@@ -14,3 +14,5 @@ This plugin was made with VoiceMeeter Potato version 3.0.2.1 (Banana version 2.0
 This package uses:
 - [midi-mixer-plugin](https://github.com/midi-mixer/midi-mixer-plugin)
 - [ts-easy-voicemeeter-remote](https://github.com/Jaggernaut555/ts-easy-voicemeeter-remote)
+
+This is a Fork from the original repository owned by the user Jaggernaut555
