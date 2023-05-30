@@ -13,3 +13,6 @@ This plugin was made with VoiceMeeter Potato version 3.0.2.1 (Banana version 2.0
 
 
 Latest releases of this plugin available [on the project's github page](https://github.com/Jaggernaut555/midi-mixer-voicemeeter/releases/latest)
+
+## Test Version
+This is a testing Version of MaStroetges
